@@ -1,0 +1,124 @@
+<style>
+
+h1{
+  left: 100%;
+ 
+	
+ }
+h2{
+  text-align: center;
+}
+h5{
+  Enter the email you registered and we will send you a link to reset your password.
+}
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #cdcdcd;
+  height: 200px;
+  width: 800px;
+  margin: auto;
+  
+}
+
+.pic{
+
+  margin-left: 30px;
+  margin-top: 20px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  padding: 50px;
+  background-color: #cdcdcd;
+  
+  
+}
+input[type=text], input[type=password] {
+  width: 100%;
+  padding: 10px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+}
+
+input[type=text]:focus, input[type=password]:focus {
+  background-color: #ddd;
+  outline: none;
+}
+
+/* Overwrite default styles of hr */
+hr {
+  
+  margin-bottom: 20px;
+  width: 102%;
+}
+
+/* Set a style for the submit button */
+.resetpasswordbtn {
+  background-color: #4CAF50;
+  color: white;
+  padding: 12px 15px;
+  margin: 6px 0;
+  border: none;
+  cursor: pointer;
+  width: 103%;
+  opacity: 0.9;
+
+  
+  
+}
+
+.registerbtn:hover {
+  opacity: 1;
+  
+}
+
+a {
+  color: dodgerblue;
+}
+
+.createanaccount {
+  background-color: #f1f1f1;
+  text-align: center;
+  height: 30px;
+  padding: 20px;
+ 
+  
+}
+/* Set a style for the submit button */
+.createanaccountbtn {
+  background-color:#ddd;
+  outline: none;
+  color: gray;
+  padding: 12px 15px;
+  border: none;
+  cursor: pointer;
+  width: 20%;
+  opacity: 0.9;
+  border: 1px solid gray;
+  margin-left: 600px;
+  margin-top: 10px;
+  position: absolute;
+
+}
+
+
+.registerbtn:hover {
+  opacity: 1;
+  
+}
+createanaccount {
+  background-color: #f1f1f1;
+  text-align: center;
+  height: 30px;
+  padding: 20px;
+ 
+
+
+
+</style>
